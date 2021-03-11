@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Xuhuajin/Desktop/Clion_stm32/stm32f103c8t6_zhsx/Core/Startup/startup_stm32f103c8tx.s
+

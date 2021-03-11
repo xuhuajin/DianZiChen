@@ -1,0 +1,3 @@
+C:/Users/Xuhuajin/Desktop/Clion_stm32/stm32f103c8t6_zhsx/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Xuhuajin/Desktop/Clion_stm32/stm32f103c8t6_zhsx/cmake-build-debug/CMakeFiles/stm32f103c8t6_zhsx.elf.dir
+C:/Users/Xuhuajin/Desktop/Clion_stm32/stm32f103c8t6_zhsx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
