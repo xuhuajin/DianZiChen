@@ -25,15 +25,18 @@ DianZiChen
 │      │  └─Startup				存放启动文件
 │      └─Drivers				st官方驱动
 │  └─stm32h750xb_dzc			基于stm32H750的下位机工程文件夹
-│      │ 
-│      ├─cmake-build-debug		编译输出文件夹，包含.hex及.bin烧录文件
-│      │  
-│      ├─Core					用户核心文件夹，包含各类驱动
-│      │  ├─Inc					.h文件存放文件夹
-│      │  ├─Src					.c文件存放文件夹
-│      │  └─Startup				存放启动文件
-│      └─Drivers				st官方驱动
-|
+│      └─Accessory				附件，串口屏工程
+|      |
+|	   └─CLion_Prj				基于stm32H750的下位机CLion工程
+|	      |
+|	      └──cmake-build-debug		编译输出文件夹，包含.hex及.bin烧录文件
+│         |
+│         ├─Core					用户核心文件夹，包含各类驱动
+│         |  ├─Inc					.h文件存放文件夹
+│         |  ├─Src					.c文件存放文件夹
+│         |  └─Startup				存放启动文件
+│         └─Drivers				st官方驱动
+│     
 ├─Doc							存放一些文档及图片，非工程文件
 │          
 └─PyQt5GUI						上位机工程文件夹
